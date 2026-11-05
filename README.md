@@ -94,13 +94,17 @@ Intelligent automation systems integrating AI agents, CRM workflows, APIs and we
 
 ---
 
+
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Shehroz&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Shehroz&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mr-Shehroz&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Mr-Shehroz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 
 ## 🤝 Let's Connect
 
