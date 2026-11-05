@@ -102,7 +102,8 @@ Intelligent automation systems integrating AI agents, CRM workflows, APIs and we
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=Mr-Shehroz&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+        
+<img src="https://github-stats-extended.vercel.app/api?username=Mr-Shehroz&show_icons=true&theme=tokyonight&hide_border=true&commits_year=2026" width="100%" />
       </td>
       <td width="50%">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mr-Shehroz&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
